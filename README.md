@@ -7,7 +7,7 @@
 
 ----
 
-</details><details> <summary>01.03-Challenge 1</summary>
+</details><details> <summary>01.02-Challenge 2</summary>
 
 ### [PDF Challenge 2][Challenge 2-Palacios Rangel Maria Fernanda.pdf](https://github.com/user-attachments/files/17866590/Challenge2.pdf)
 
